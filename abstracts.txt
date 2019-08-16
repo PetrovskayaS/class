@@ -1,105 +1,192 @@
 
-1. Tetrahedron Lett. 1967 Dec;50:5103-8.
+1. J Bone Joint Surg Br. 1984 Jan;66(1):66-70.
 
-Nitric acid esters of pyrimidine nucleosides.
+Lambrinudi triple arthrodesis for correction of severe rigid drop-foot.
 
-Duschinsky R, Eppenberger U.
+Tang SC, Leong JC, Hsu LC.
 
-
-PMID: 6081189  [Indexed for MEDLINE]
-
-
-1. Percept Mot Skills. 1967 Oct;25(2):517-21.
-
-Factor analysis of WB-I and WAIS scores of patients with chronic cerebral
-dysfunction.
-
-Reed JC, Fitzhugh KB.
-
-DOI: 10.2466/pms.1967.25.2.517 
-PMID: 6080631  [Indexed for MEDLINE]
+The results of 10 patients with severe rigid drop-foot corrected by the
+Lambrinudi triple arthrodesis were studied. The average amount of correction was 
+47 degrees, as evaluated from standing radiographs taken before and after
+operation. Radiological features of osteoarthritis and of flattening of the talus
+were common, but the feet were painless when reviewed at an average of 70 months 
+later. A satisfactory range of movement was obtained at the ankle joint.
 
 
-1. Biometrics. 1967 Dec;23(4):657-70.
-
-A test for random mingling of the phases of a mosaic.
-
-Pielou EC.
+PMID: 6693480  [Indexed for MEDLINE]
 
 
-PMID: 6080203  [Indexed for MEDLINE]
+1. Fed Proc. 1984 Feb;43(2):191-5.
+
+Use of isolated brain capillaries and cultured endothelial cells to study the
+blood-brain barrier.
+
+Goldstein GW, Betz AL, Bowman PD.
+
+Brain capillary endothelial cells are responsible for forming the blood-brain
+barrier (BBB). Methods are now available to isolate microvessels from brain and
+study their biochemical and transport characteristics. From these investigations,
+new ideas have been proposed concerning the role of endothelial cells in the
+function of the BBB. More recently, success in culturing endothelial cells from
+brain microvessels has opened the way for novel approaches to the study of the
+regulation of endothelial cell permeability. We anticipate continued rapid
+progress in this area and expect that this will lead to a better understanding of
+the mechanisms involved in the regulation of BBB permeability and brain capillary
+function.
 
 
-1. J Health Soc Behav. 1967 Dec;8(4):265-71.
-
-Predicting non-compliant behavior.
-
-Davis MS.
+PMID: 6692938  [Indexed for MEDLINE]
 
 
-PMID: 6080126  [Indexed for MEDLINE]
+1. Fed Proc. 1984 Feb;43(2):148-53.
+
+Modeling exchange in capillary beds.
+
+Jacquez JA.
+
+Analysis of the handling of a material by the tissues of an organ after injection
+into the arterial inflow requires models of the functional units as well as of
+the distribution of the blood flow to the units. The major models of functional
+units are reviewed as are the effects of transit time distributions in the large 
+vessels and capillaries. Multiple-indicator methods generally do not provide
+sufficient information to solve the inverse problem, i.e., to calculate the
+kinetics of handling the injected material in the tissue from the venous outflow 
+curves. However, the use of simple, plausible assumptions allows one to extract
+considerable information from the venous outflow curves. These assumptions are 1)
+independence of the probability density functions of transit times for the
+arteries, veins, and capillaries, and 2) uniformity of handling of materials that
+do not leave the capillaries.
 
 
-1. Chem Ind. 1967 Nov 11;45:1914-6.
-
-The design of microbiological safety cabinets.
-
-Darlow HM.
+PMID: 6692932  [Indexed for MEDLINE]
 
 
-PMID: 6080120  [Indexed for MEDLINE]
+1. FEBS Lett. 1984 Jan 30;166(2):273-6.
+
+Purification of a novel pancreatic secretory factor (PSF) and a novel peptide
+with VIP- and secretin-like properties (helodermin) from Gila monster venom.
+
+Vandermeers A, Vandermeers-Piret MC, Robberecht P, Waelbroeck M, Dehaye JP,
+Winand J, Christophe J.
+
+A combination of three HPLC procedures applied to the venom of Gila monster
+(Heloderma suspectum) has led to the purification to homogeneity of two bioactive
+components: (i) a 17.5 kDa protein, isolated on the basis of its potent secretory
+effect on dispersed rat pancreatic acini, was accordingly designated PSF
+(pancreatic secretory factor); (ii) a 5.9-kDa peptide, designated helodermin, was
+purified on the basis of its ability to stimulate adenylate cyclase in rat
+pancreatic membranes. PSF was unable to activate adenylate cyclase and,
+conversely, helodermin was devoid of secretory action.
+
+DOI: 10.1016/0014-5793(84)80094-0 
+PMID: 6692928  [Indexed for MEDLINE]
 
 
-1. Bull Chem Soc Jpn. 1967 Aug;40(8):1975-80.
+1. Epilepsia. 1984 Feb;25(1):100-7.
 
-Studies of peptide antibiotics. XI. Analogs of gramicidin S and
-cyclosemigramicidin S containing glycine or alanine in place of valine.
+Intensive EEG monitoring and psychological studies of patients with
+pseudoepileptic seizures.
 
-Kondo M, Izumiya N.
+Wilkus RJ, Dodrill CB, Thompson PM.
 
+EEG/closed-circuit television long-term monitoring was used as a definitive
+diagnostic tool to identify and characterize 25 patients with pseudoepileptic
+seizures and a similar group of subjects with epilepsy, confirming the value of
+the procedure. The groups did not differ with respect to intelligence,
+neuropsychological impairment, or incidence of potential etiological factors for 
+seizures. Scores on the Minnesota Multiphasic Personality Inventory (MMPI) and
+the Hypochondriasis, Hysteria, and Schizophrenia Scales were significantly higher
+for the pseudoepileptic group than for the other subjects. As a whole, the former
+patients exhibited an MMPI profile pattern frequently seen in the conversion form
+of hysteria. A set of three rules derived from the MMPI profiles was used to
+classify the patients correctly in 80-90% of cases. As evaluated by the
+Washington Psychosocial Seizure Inventory, psychosocial problems of patients with
+pseudoepileptic seizures were more severe in certain areas, and appeared to
+reflect early family background problems and inappropriate management of their
+disorders.
 
-PMID: 6080116  [Indexed for MEDLINE]
-
-
-1. J Ir Med Assoc. 1967 Dec;60(366):455-60.
-
-Onycho-osteodysplasia (the nail-patella syndrome) with pectus carinatum--report
-of a family.
-
-Carey M, Woods S, Quinlan H.
-
-
-PMID: 6079099  [Indexed for MEDLINE]
-
-
-1. J Electron Microsc (Tokyo). 1967;16(2):169-72.
-
-On the fine structure of nerve myelin by means of glutaraldehyde fixation.
-
-Mizuhira B, Ozawa H.
+DOI: 10.1111/j.1528-1157.1984.tb04162.x 
+PMID: 6692785  [Indexed for MEDLINE]
 
 
-PMID: 6079082  [Indexed for MEDLINE]
+1. Drugs. 1984 Jan;27(1):1-5.
+
+Traveller's diarrhoea. Is drug therapy for prophylaxis and treatment of real
+benefit?
+
+Gracey M.
+
+DOI: 10.2165/00003495-198427010-00001 
+PMID: 6692784  [Indexed for MEDLINE]
 
 
-1. J Educ Psychol. 1967 Oct;58(5):290-302.
+1. Dtsch Med Wochenschr. 1984 Jan 27;109(4):157-8.
 
-A twenty-college study of student x college interaction using tape (transactional
-analysis of personality and environment): rationale, reliability, and validity.
+[Bezafibrate-induced rhabdomyolysis in a patient with impaired kidney function].
 
-Pervin LA.
+[Article in German]
 
-
-PMID: 6079074  [Indexed for MEDLINE]
+Haubenstock A, Schmidt P, Zazgornik J, Balcke P, Kopsa H, Sertl K.
 
 
-1. J Am Coll Health Assoc. 1967 Dec;16(2):140-4.
-
-Pigmenturia, myalgia, dehydration and exhaustion--an acute syndrome appearing
-during initiation week.
-
-Whang R, Brandfonbrener M, Young AK.
+PMID: 6692783  [Indexed for MEDLINE]
 
 
-PMID: 6079048  [Indexed for MEDLINE]
+1. Dtsch Med Wochenschr. 1984 Jan 27;109(4):153-5.
+
+[Limits of the physician's duty to inform: Western European comparisons].
+
+[Article in German]
+
+Wachsmuth W, Schreiber HL.
+
+
+PMID: 6692782  [Indexed for MEDLINE]
+
+
+1. Dtsch Med Wochenschr. 1984 Jan 20;109(3):108-10.
+
+[Therapy of chronic polyarthritis].
+
+[Article in German]
+
+Felder M, Ryser J.
+
+DOI: 10.1055/s-2008-1069149 
+PMID: 6692772  [Indexed for MEDLINE]
+
+
+1. Clin Orthop Relat Res. 1984 Jan-Feb;(182):90-8.
+
+Total hip and total knee arthroplasty in juvenile rheumatoid arthritis.
+
+Scott RD, Sarokhan AJ, Dalziel R.
+
+Total hip arthroplasty (THA) or total knee arthroplasty (TKA) is indicated for
+patients with juvenile rheumatoid arthritis (JRA) when marked joint destruction
+is present and pain or deformity compromises function despite optimal medical
+therapy. Relief of pain, reduction of the deformity, and dramatic improvement in 
+functional status and quality of life can be achieved in most patients.
+Functional impairment and deformity rather than pain are usually the primary
+indications for THA or TKA. When there is both hip and knee involvement, hip
+arthroplasty should probably be done first. Regional anesthetic appears to be the
+anesthetic of choice. Careful preoperative planning and the availability of
+custom and minisized components are essential. Small bone size, osteoporosis, and
+severe soft tissue disease make the surgery technically demanding. Skeletal
+immaturity may not contraindicate surgery if the patient is otherwise bedridden
+with progressive deformity. In the hip trochanteric osteotomy is often necessary 
+for adequate exposure, with the possible exception being a patient with juvenile 
+ankylosing spondylitis who is subject to heterotopic bone formation. Although
+complete capsulectomy and psoas tenotomy may be necessary to relieve a hip
+flexion contracture, a soft tissue release that produces leg lengthening may lead
+to nerve palsy. In the hip component loosening has been less common in patients
+with JRA than in other young patients who have undergone THA, but it is still the
+most frequent cause of failure. In the knee preoperative and postoperative serial
+casts can aid in the correction of severe flexion contracture. Secondary patellar
+pain has been the most common cause of late failure. Patellar resurfacing should 
+probably be performed at the time of the original knee arthroplasty in all
+patients with JRA.
+
+
+PMID: 6692630  [Indexed for MEDLINE]
 
